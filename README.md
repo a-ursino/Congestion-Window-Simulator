@@ -1,4 +1,4 @@
-A model for Congestion windown network simulator
+A model for Congestion window network simulator
 ================================
 
 Input data
